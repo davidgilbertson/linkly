@@ -1,2 +1,2 @@
 # linkly
-Chrome extension customising the behaviour of hyperlinks.
+Chrome extension for customising the behaviour of hyperlinks.
